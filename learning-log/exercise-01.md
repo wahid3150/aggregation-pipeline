@@ -1,4 +1,4 @@
-## Day 01 – MongoDB Aggregation Pipeline (Basics)
+## Exercise 01 – MongoDB Aggregation Pipeline (Basics)
 
 ### What I did
 - Installed MongoDB VS Code Extension
